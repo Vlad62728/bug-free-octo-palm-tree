@@ -22,6 +22,12 @@ const diplomas = {
     "236457": "diploma20.jpg",
     "428083": "diploma21.jpg",
     "0000": "diploma22.jpg"
+    "18469500": "diploma23.jpg"
+    "34598301": "diploma24.jpg"
+    "428083": "diploma25.jpg"
+    "58348132": "diploma26.jpg"
+    "54950": "diploma27.jpg"
+
 };
 
 function showDiploma() {
